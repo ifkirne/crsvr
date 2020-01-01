@@ -45,6 +45,6 @@ We have to add more monitoring plugins and modules to watch this critical part o
 | Time  | Description |
 | ----- | ----------- |
 | 11:56 | Discovering of the missing files |
-| 12:00 | Restarting of the AES CIS monitoring module |
-| 12:15 | Starting of the data processing of the records files |
+| 12:10 | Restarting of the AES CIS monitoring module |
+| 12:25 | Starting of the data processing of the records files |
 | 13:00 | Completion of the data processing of all the 486,000 records files |
